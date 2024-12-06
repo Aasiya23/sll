@@ -19,3 +19,27 @@ int main()
 
 
 }
+Void InserFront()
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
